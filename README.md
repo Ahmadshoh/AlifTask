@@ -4,6 +4,6 @@
 ---
 $ php task.php "filename" "operation(\*, /, +, -)"
 
-### Пример
+Пример
 ---
 php task.php input.txt "\*"
