@@ -3,7 +3,6 @@
 $file = $argv[1];
 $operation = $argv[2];
 
-var_dump($argv);
 
 file_put_contents("positive.txt", "");
 file_put_contents("negative.txt", "");
